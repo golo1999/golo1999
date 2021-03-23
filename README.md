@@ -1,4 +1,4 @@
 - 👋 Hi, I’m George-Alexandru Gologan
 - 👀 I’m interested in programming, football and playing video games.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web and mobile development.
 - 📫 How to reach me: https://www.facebook.com/georgealexandru.gologan.10 (Facebook), aggologan1999@gmail.com (E-mail)
